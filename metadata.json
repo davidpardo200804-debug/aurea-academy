@@ -1,0 +1,7 @@
+{
+  "name": "Áurea - Plataforma Educativa Inteligente y Campus Virtual",
+  "description": "Áurea: Plataforma escolar y universitaria inteligente con gestión de notas, matrículas, tesorería, foros, sala de llamadas directiva-docente, extensión de WhatsApp con IA y protección cibernética avanzada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
